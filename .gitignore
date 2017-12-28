@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+
+*.make
+*.sln
+*.db
+*.VC.db
+*.vcxproj
+*.vcxproj.filters
+*.rc
